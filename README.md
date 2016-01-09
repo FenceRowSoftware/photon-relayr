@@ -1,4 +1,4 @@
-# photon-relayr-client
+# photon-relayr
 
 This code will allow you to use your Particle Photon to read temperature and humidity data from a DHT11 sensor and transmit the data using MQTT, via the Relayr cloud.
 
